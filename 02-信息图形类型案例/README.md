@@ -1,11 +1,14 @@
 # 02-信息图形类型案例
 
-本目录通过具体案例归纳信息图形类型的构成方式、数据逻辑、图形借用、视觉编码和叙事方法。\n\n> 分类边界：ISOTYPE 不作为本目录中的一种信息图形类型。它被视为一种独立的基础设计方式/视觉语言，单独归入仓库根目录的 [03-ISOTYPE信息图专项项目](../03-ISOTYPE信息图专项项目/README.md)。
+本目录通过具体案例归纳信息图形类型的构成方式、数据逻辑、图形借用、视觉编码和叙事方法。
+
+> 分类边界：ISOTYPE 不作为本目录中的一种信息图形类型。它被视为一种独立的基础设计方式/视觉语言，单独归入仓库根目录的 [03-ISOTYPE信息图专项项目](../03-ISOTYPE信息图专项项目/README.md)。
 
 ## 类型目录
 1. [混合型信息图形（Mixed Charts）](./01-混合型信息图形Mixed%20Charts/说明文档.md)
 2. [文字型/列表型信息图形（Informational / List Infographics）](./02-文字型-列表型信息图形Informational%20-List%20Infographics/说明文档.md)
 3. [时间轴型信息图形（Timeline Infographics）](./03-时间轴型信息图形Timeline%20Infographics/说明文档.md)
+4. [词云信息图（Word Cloud Infographics）](./04-词云信息图Word%20Cloud%20Infographics/README.md)
 
 ## 案例分析流程
 1. 保存用户提供的原始案例图，并记录来源。
